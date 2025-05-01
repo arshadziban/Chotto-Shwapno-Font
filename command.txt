@@ -1,6 +1,0 @@
-Download and install 
-https://fontforge.org/en-US/downloads/
-
-
-C:\Program Files (x86)\FontForgeBuilds\fontforge-console.bat
-ffpython import_svg.py
