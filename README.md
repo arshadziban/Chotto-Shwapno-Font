@@ -1,5 +1,5 @@
 # Chotto-Shwapno-Font
-![Chotto-Shwapno-Font](images/img.jpg)
+![Chotto-Shwapno-Font](img.jpg)
 
 To convert SVG text using FontForge, follow these steps:
 
